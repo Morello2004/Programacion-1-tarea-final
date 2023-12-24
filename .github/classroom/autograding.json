@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "sin_lluvias",
+      "setup": "",
+      "run": "make sin_lluvias",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "llovio_umbral",
+      "setup": "",
+      "run": "make llovio_umbral",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 20
+    },
+    {
+      "name": "contador_dias_maximo_calor",
+      "setup": "",
+      "run": "make contador_dias_maximo_calor",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 20
+    },
+    {
+      "name": "dia_mas_frio_mes",
+      "setup": "",
+      "run": "make dia_mas_frio_mes",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 20
+    },
+    {
+      "name": "promedio_lluvias_mes",
+      "setup": "",
+      "run": "make promedio_lluvias_mes",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 30
+    }
+  ]
+}
